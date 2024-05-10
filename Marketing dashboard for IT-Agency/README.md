@@ -11,8 +11,8 @@ The main goals of this project are:
 
 Via links below you can see how I extracted data for the dashboard, utilizing SQL for:
 
-* [Advertising vendor](https://pastebin.com/mR7e84D4)
-* [Marketing director](https://pastebin.com/7jr20JsH)
+* [Advertising vendor](https://github.com/aaallexandr/freelance-projects/blob/main/Marketing%20dashboard%20for%20IT-Agency/ad_vendor_data.sql)
+* [Marketing director](https://github.com/aaallexandr/freelance-projects/blob/main/Marketing%20dashboard%20for%20IT-Agency/markdir_ceo_data.sql)
 
 #### Dashboard for an advertising vendor
 
