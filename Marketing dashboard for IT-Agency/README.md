@@ -24,15 +24,17 @@ The dashboard for the advertising vendor provides direct advertising data such a
 
 The dashboard for the marketing director is the most detailed in data. It represents key marketing information:
 
-* distribution of orders status and last-click attribution;
-* conversions to payment and orderd cancellation;
+* distribution of orders status and sources of attribution;
+* conversions to payment and order cancellation;
 * revenue, spends, profit and ROMI dynamics;
+* orders funnel;
 * average check, customer acqusition cost (CAC).
 
 <img width="1440" alt="image" src="https://github.com/aaallexandr/freelance-projects/assets/126966529/81563bc0-8e2f-47e4-9910-58715428c408">
 
 #### Dashboard for CEO
 
+This dashboards provide only general information about main business perfomance metrics: orders funnel, distribution of orders status, dynamics of spends and revenue and ROMI.
 
 
 <img width="1440" alt="image" src="https://github.com/aaallexandr/freelance-projects/assets/126966529/6d609bc1-7ef4-4097-8803-d0b687b3d8e9">
