@@ -7,13 +7,14 @@ The main goals of this project are:
 1. To link the orders to the source, implementing an SQL scripts.
 2. To build dashboards on the received data in Power BI for three stakeholders: advertising vendor, marketing director and CEO.
 
-#### SQL scripts
+### SQL scripts
 
 Via links below you can see how I extracted data for the dashboard, utilizing SQL for:
 
 * [Advertising vendor](https://github.com/aaallexandr/freelance-projects/blob/main/Marketing%20dashboard%20for%20IT-Agency/ad_vendor_data.sql)
 * [Marketing director](https://github.com/aaallexandr/freelance-projects/blob/main/Marketing%20dashboard%20for%20IT-Agency/markdir_ceo_data.sql)
 
+### Dashboards
 #### Dashboard for an advertising vendor
 
 The dashboard for the advertising vendor provides direct advertising data such as marketing spends, impressions, clicks, CTR and conversion to orders
@@ -38,3 +39,5 @@ This dashboards provide only general information about main business perfomance 
 
 
 <img width="1440" alt="image" src="https://github.com/aaallexandr/freelance-projects/assets/126966529/6d609bc1-7ef4-4097-8803-d0b687b3d8e9">
+
+If you have Power BI, you can download [this file](https://github.com/aaallexandr/freelance-projects/blob/main/Marketing%20dashboard%20for%20IT-Agency/it_agency_dashboard.pbix) to use the dashboards.
