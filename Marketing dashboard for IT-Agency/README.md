@@ -22,7 +22,7 @@ The dashboard for the advertising vendor provides direct advertising data such a
 
 <img width="1440" alt="image" src="https://github.com/aaallexandr/freelance-projects/assets/126966529/8e1a3c67-1f5f-4fac-9398-4562f6066f8f">
 
-#### Dashbord for marketing director
+#### Dashbord for Marketing director
 
 The dashboard for the marketing director is the most detailed in data. It represents key marketing information:
 
