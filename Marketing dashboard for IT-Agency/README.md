@@ -4,8 +4,8 @@ The customers of this project are IT-Agency and the online beauty store [New Bea
 
 The main goals of this project are:
 
-To link the orders to their sources, implementing SQL scripts.
-To build dashboards on the received data in Power BI for three stakeholders: the advertising vendor, the marketing director, and the CEO.
+* To link the orders to their sources, implementing SQL scripts.
+* To build dashboards on the received data in Power BI for three stakeholders: the advertising vendor, the marketing director, and the CEO.
 
 ### SQL Scripts
 
